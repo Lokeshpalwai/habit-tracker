@@ -10,7 +10,7 @@ performance insights.
 
 ## 🌐 Live Demo
 
-> Coming soon
+>(https://habittracker143.netlify.app)
 
 ---
 
